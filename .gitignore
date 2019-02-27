@@ -1,0 +1,4 @@
+.gitattributes
+Googlesearch crawler.docx
+googlesearch/__pycache__/
+googlesearch/spiders/__pycache__/
